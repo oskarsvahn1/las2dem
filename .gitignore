@@ -1,0 +1,11 @@
+*.las
+*.laz
+*.png
+*.tif
+*.jpg
+.vscode
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
